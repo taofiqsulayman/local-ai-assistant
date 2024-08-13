@@ -92,15 +92,9 @@ streamlit run app.py
 
 ## Troubleshooting
 
-- If you encounter any issues with Ollama, refer to the [Ollama documentation](#).
-- For Streamlit-related issues, check the [Streamlit documentation](#).
+- If you encounter any issues with Ollama, refer to the [Ollama documentation](https://ollama.com).
+- For Streamlit-related issues, check the [Streamlit documentation](https://docs.streamlit.io/).
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository, make changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-By using this project, you agree to the terms and conditions of the license.
