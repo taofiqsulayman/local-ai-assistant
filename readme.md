@@ -3,7 +3,7 @@
 
 ## Unlock the Power of Conversational AI
 
-Imagine having a personal AI assistant at your fingertips, ready to answer your questions, provide information, and even entertain you. Welcome to Local AI Assistant, a revolutionary Streamlit app that harnesses the power of LangChain to bring conversational AI to your local machine.
+Imagine having a personal AI assistant at your fingertips, ready to answer your questions, provide information, and even entertain you. Welcome to Local AI Assistant, a Streamlit app that harnesses the power of Ollama (for serving LLMs locally) and LangChain to bring conversational AI to your local machine.
 
 ## Table of Contents
 - [Installation and Setup](#installation-and-setup)
