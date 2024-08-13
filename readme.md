@@ -1,6 +1,4 @@
-Here's the markdown format suitable for a README file:
 
-```markdown
 # Local AI Assistant
 
 ## Unlock the Power of Conversational AI
@@ -107,4 +105,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 By using this project, you agree to the terms and conditions of the license.
-```
