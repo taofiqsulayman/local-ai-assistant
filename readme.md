@@ -18,14 +18,13 @@ Imagine having a personal AI assistant at your fingertips, ready to answer your 
 
 To use this project, you need to install Ollama on your system. Follow these steps:
 
-1. Install Docker on your system if you haven't already. You can download it from [Docker's official website](https://www.docker.com/get-started).
-2. Install the Ollama CLI by running the following command in your terminal:
+1.  Install the Ollama CLI by running the following command in your terminal:
 
     ```bash
     pip install ollama
     ```
 
-3. Verify the installation by running:
+2. Verify the installation by running:
 
     ```bash
     ollama --version
